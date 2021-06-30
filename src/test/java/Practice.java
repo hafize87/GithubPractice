@@ -5,5 +5,6 @@ public class Practice {
         System.out.println("hello");
         System.out.println("something");
         System.out.println("commit");
+        System.out.println("hello");
     }
 }
